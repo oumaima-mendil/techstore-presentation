@@ -39,11 +39,27 @@ Chaque message est traité de façon autonome : le système détecte le besoin (
 - Montant des commandes et stock recalculés et vérifiés côté serveur
 
 ## Captures d'écran
-![Accueil](01-accueil.png)
-![Catalogue](02-catalogue.png)
-![Chatbot](03-chatbot.png)
-![Fiche produit et avis](04-produit-avis.png)
+### Page d'accueil
+![Accueil](00-accueil.png)
+
+### Catalogue
+![Catalogue](01-catalogue.png)
+
+### Chatbot de recommandation
+![Chatbot](02-chatbot.jpeg)
+
+### Fiche produit et avis clients
+![Fiche produit](03-fiche-produit.png)
+
+### Commande et confirmation
 ![Commande](05-commande.png)
+
+### Administration
+![Administration](07-admin.png)
+
+## Auteure
+Oumaima Mendil, élève ingénieure en génie informatique (EMSI Rabat)
+[LinkedIn](linkedin.com/in/oumaima-mendil)
 ![Administration](06-admin.png)
 
 ## Auteure
